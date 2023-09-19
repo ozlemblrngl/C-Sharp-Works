@@ -1,0 +1,14 @@
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.AssemblyInfo.cs
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\bin\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.exe
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\bin\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.deps.json
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\bin\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.runtimeconfig.json
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\bin\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\bin\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.pdb
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\refint\ConsoleApp_SinavNotUygulamasi.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.pdb
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ConsoleApp_SinavNotUygulamasi.genruntimeconfig.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_SinavNotUygulamasi\ConsoleApp_SinavNotUygulamasi\obj\Debug\net6.0\ref\ConsoleApp_SinavNotUygulamasi.dll

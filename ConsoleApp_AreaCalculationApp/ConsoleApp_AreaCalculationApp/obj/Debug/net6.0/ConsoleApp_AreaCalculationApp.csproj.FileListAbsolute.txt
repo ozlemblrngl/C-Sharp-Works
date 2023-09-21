@@ -1,0 +1,14 @@
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.AssemblyInfoInputs.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.AssemblyInfo.cs
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\bin\Debug\net6.0\ConsoleApp_AreaCalculationApp.exe
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\bin\Debug\net6.0\ConsoleApp_AreaCalculationApp.deps.json
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\bin\Debug\net6.0\ConsoleApp_AreaCalculationApp.runtimeconfig.json
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\bin\Debug\net6.0\ConsoleApp_AreaCalculationApp.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\bin\Debug\net6.0\ConsoleApp_AreaCalculationApp.pdb
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\refint\ConsoleApp_AreaCalculationApp.dll
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.pdb
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ConsoleApp_AreaCalculationApp.genruntimeconfig.cache
+C:\Users\Ozlem\source\repos\ConsoleApp_AreaCalculationApp\ConsoleApp_AreaCalculationApp\obj\Debug\net6.0\ref\ConsoleApp_AreaCalculationApp.dll
